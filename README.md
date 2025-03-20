@@ -36,4 +36,4 @@ npm run cy:all
 ```
 
 ### Below is the expected result of all tests that were executed:
-![results of tests execution] (cypress/images/results.png)
+![results of tests execution](cypress/images/results.png)
